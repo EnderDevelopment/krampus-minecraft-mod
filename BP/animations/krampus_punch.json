@@ -1,0 +1,16 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.krampus.punch": {
+      "loop": false,
+      "bones": {
+        "krampus": {
+          "rotation": [0, 0, 0],
+          "position": [0, 0, 0]
+        }
+      },
+      "animation_length": 1.0,
+      "loop": false
+    }
+  }
+}

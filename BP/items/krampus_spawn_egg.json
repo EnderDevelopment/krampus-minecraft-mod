@@ -1,0 +1,20 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "krampus:krampus_spawn_egg",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:spawn_egg": {
+        "entity_type": "krampus:krampus"
+      },
+      "minecraft:display_name": {
+        "value": "Krampus Spawn Egg"
+      },
+      "minecraft:icon": {
+        "texture": "krampus_spawn_egg"
+      }
+    }
+  }
+}
